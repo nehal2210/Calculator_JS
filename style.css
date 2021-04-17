@@ -1,0 +1,23 @@
+.body{
+    text-align: center;
+    background-color: lightblue;
+    
+}
+/* .btn{
+    margin-top: 10px;    
+    width: 45px;
+} */
+
+#main{
+    border: 5px solid gray;
+    width: 300px;
+    
+    margin-top: 200px;
+}
+
+.result{
+
+    width: 195px;
+    background-color: darkgray
+
+}
